@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @07032001nk
-- 👀 I’m interested in creating SAAS using PHP, Vue.js, Node.js, etc
+- 👀 I’m interested in creating SAAS using Python, PHP (with CI, and Laravel), Vue.js, Node.js, etc
 - 🌱 I’m currently learning PHP
 - 📫 How to reach me ... 07032001nk@gmail.com
 
